@@ -10,11 +10,11 @@
   <img src='assets/lionex_video_title.svg' alt="Lionex-Video">
   <a href='https://princenew678-lionex.github.io/Lionex-Video/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
   <a href='https://arxiv.org/abs/2510.22200'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
-  <a href='https://huggingface.co/meituan-longcat/LongCat-Video'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
+  <a href='https://huggingface.co/princenew-lionex/Lionex-Video'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
 <div align="center" style="line-height: 1;">
-  <img src='assets/longcat_video_avatar_title.svg' alt="LongCat-Video-Avatar">
-  <a href='https://meigen-ai.github.io/LongCat-Video-Avatar/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+  <img src='assets/lionex_video_avatar_title.svg' alt="Lionex-Video-Avatar">
+  <a href='https://princenew678-ai.github.io/Lionex-Video-Avatar/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
   <a href='https://github.com/meituan-longcat/LongCat-Video/blob/main/assets/LongCat-Video-Avatar-Tech-Report.pdf'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
   <a href='https://huggingface.co/meituan-longcat/LongCat-Video-Avatar'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 </div>
