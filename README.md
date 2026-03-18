@@ -27,15 +27,15 @@
 </div>
 
 ## Model Introduction
-We introduce LongCat-Video, a foundational video generation model with 13.6B parameters, delivering strong performance across *Text-to-Video*, *Image-to-Video*, and *Video-Continuation* generation tasks. It particularly excels in efficient and high-quality long video generation, representing our first step toward world models.
+We introduce Lionex-Video, a foundational video generation model with 13.6B parameters, delivering strong performance across *Text-to-Video*, *Image-to-Video*, and *Video-Continuation* generation tasks. It particularly excels in efficient and high-quality long video generation, representing our first step toward world models.
 
 ### Key Features
-- 🌟 **Unified architecture for multiple tasks**: LongCat-Video unifies *Text-to-Video*, *Image-to-Video*, and *Video-Continuation* tasks within a single video generation framework. It natively supports all these tasks with a single model and consistently delivers strong performance across each individual task.
+- 🌟 **Unified architecture for multiple tasks**: Lionex-Video unifies *Text-to-Video*, *Image-to-Video*, and *Video-Continuation* tasks within a single video generation framework. It natively supports all these tasks with a single model and consistently delivers strong performance across each individual task.
 - 🌟 **Long video generation**: LongCat-Video is natively pretrained on *Video-Continuation* tasks, enabling it to produce minutes-long videos without color drifting or quality degradation.
 - 🌟 **Efficient inference**: LongCat-Video generates $720p$, $30fps$ videos within minutes by employing a coarse-to-fine generation strategy along both the temporal and spatial axes. Block Sparse Attention further enhances efficiency, particularly at high resolutions
 - 🌟 **Strong performance with multi-reward RLHF**: Powered by multi-reward Group Relative Policy Optimization (GRPO), comprehensive evaluations on both internal and public benchmarks demonstrate that LongCat-Video achieves performance comparable to leading open-source video generation models as well as the latest commercial solutions.
 
-For more detail, please refer to the comprehensive [***LongCat-Video Technical Report***](https://arxiv.org/abs/2510.22200).
+For more detail, please refer to the comprehensive [***Lionex-Video Technical Report***](https://arxiv.org/abs/2510.22200).
 
 ## 🎥 Teaser Video
 
@@ -44,7 +44,7 @@ For more detail, please refer to the comprehensive [***LongCat-Video Technical R
 </div>
 
 ## 🔥 Latest News!!
-- Dec 16, 2025: 🚀 We are excited to announce the release of [***LongCat-Video-Avatar***](https://meigen-ai.github.io/LongCat-Video-Avatar/), a unified model that delivers expressive and highly dynamic audio-driven character animation, supporting native tasks including *Audio-Text-to-Video*, *Audio-Text-Image-to-Video*, and *Video Continuation* with seamless compatibility for both *single-stream* and *multi-stream* audio inputs. The release includes our [***Technical Report***](https://github.com/meituan-longcat/LongCat-Video), [***inference code***](https://github.com/meituan-longcat/LongCat-Video), 🤗 [***model weights***](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar), and [***project page***](https://meigen-ai.github.io/LongCat-Video-Avatar/).
+- Dec 16, 2025: 🚀 We are excited to announce the release of [***Lionex-Video-Avatar***](https://princenew678-ai.github.io/Lionex-Video-Avatar/), a unified model that delivers expressive and highly dynamic audio-driven character animation, supporting native tasks including *Audio-Text-to-Video*, *Audio-Text-Image-to-Video*, and *Video Continuation* with seamless compatibility for both *single-stream* and *multi-stream* audio inputs. The release includes our [***Technical Report***](https://github.com/meituan-longcat/LongCat-Video), [***inference code***](https://github.com/meituan-longcat/LongCat-Video), 🤗 [***model weights***](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar), and [***project page***](https://meigen-ai.github.io/LongCat-Video-Avatar/).
 - Oct 25, 2025: 🚀 We've released LongCat-Video, a foundational video generation model.  Tech report and models are available at [***LongCat-Video Technical Report***](https://arxiv.org/abs/2510.22200) and 🤗 [***Huggingface***](https://huggingface.co/meituan-longcat/LongCat-Video) !
 
 
